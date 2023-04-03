@@ -1,0 +1,6 @@
+[submodule "server"]
+	path = server
+	url = https://www.github.com/wise-introvert/edc-api
+[submodule "client"]
+	path = client
+	url = https://www.github.com/wise-introvert/edc-app
